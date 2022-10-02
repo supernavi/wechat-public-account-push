@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "d0d763d571ebcf196e15527f9760d7ef",
     // 模板消息id
-    TEMPLATE_ID: "5udr5lIqFiUsnS2xxl9saa_U4fiRSJrXVmTJOcjuvE0",
+    TEMPLATE_ID: "	qhfaPCCHtPsr-4Y8yVG8hW3fQEjaCuTT_fZCbMCYUTs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oUTfm6BRpSAnU9p2c7i1TDEq_Z2A"],
      
@@ -46,7 +46,7 @@ export const config = {
 
     }
 
-// {{date.DATA}}  
+// 今天是{{date.DATA}}  
 // 城市：{{city.DATA}}  
 // 天气：{{weather.DATA}}  
 // 最低气温: {{min_temperature.DATA}}  
